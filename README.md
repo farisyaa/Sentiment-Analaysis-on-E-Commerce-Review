@@ -9,3 +9,5 @@ however, there are multiple views that support how hateful speeches and comments
 Moreover, negative and rude comments can affect other buyers' perception of the product that is reviewed. 
 Thus, the economic well-being of the shop would decrease unnecessarily. Therefore, this project aims to identify positive, negative, and neutral comments,
 alongside to filter the number of negative comments to help reduce prejudice of a product. 
+
+* [test.txt](https://github.com/farisyaa/Sentiment-Analaysis-on-E-Commerce-Review/blob/336c8ef22ff059a50ac5d09bde7500dc78156dad/test.txt) -> is clean data (no duplicates and labeled)
